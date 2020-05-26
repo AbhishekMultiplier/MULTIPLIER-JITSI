@@ -12,6 +12,8 @@ import { Platform } from './features/base/react';
 const logger = getLogger('index.web');
 const OS = Platform.OS;
 
+// this is being edited by madhu as a collaborator
+
 /**
  * Renders the app when the DOM tree has been loaded.
  */
